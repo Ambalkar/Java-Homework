@@ -1,0 +1,15 @@
+# Eclipse
+.metadata/
+bin/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
